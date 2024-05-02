@@ -12,4 +12,4 @@ PixelPerfect funker ved å bruke Pillow bibloteket. Pillow er et biblotek som la
 ![bilde](./docs/img/pixelperfekt.png)
 
 ## Eksempel
-![](./docs/vid/pixelperfect.mp4)
+https://youtu.be/KyQlv3WWnjY
